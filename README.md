@@ -1,8 +1,8 @@
 # regexp
 
 Implement regular expression matching with the following special characters: . 
-1. (period) which matches **any single character** 
-2. * (asterisk) which matches **zero or more** of the preceding element 
+1. \. (period) which matches **any single character** 
+2. \* (asterisk) which matches **zero or more** of the preceding element 
 
 For example: 
 
